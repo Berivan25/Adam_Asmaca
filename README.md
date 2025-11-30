@@ -21,11 +21,4 @@ Oyun tamamen terminal üzerinde çalışır ve kullanıcı dostu çerçeveli bir
 - Python 3.x
 - Terminal / Komut Satırı
 
----
 
-## Kurulum ve Çalıştırma
-
-1. Projeyi bilgisayarınıza klonlayın veya indirin:
-
-```bash
-git clone https://github.com/kullaniciAdi/adam-asmaca.git
